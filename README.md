@@ -17,7 +17,7 @@ You can install the libraries using pip:
 pip install tensorflow keras matplotlib
 ## GitHub Repository
 
-The code for this example can be found in the following GitHub repository: [Link to GitHub Repository](https://github.com/example-repo)
+The code for this example can be found in the following GitHub repository: [Link to GitHub Repository](https://github.com/kamalakarpeta/image_classification_with_TensorFlow_and_Keras)
 
 ## Conclusion
 
